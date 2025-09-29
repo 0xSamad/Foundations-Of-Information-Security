@@ -31,3 +31,13 @@ _Short guide: Firefox Sync, Notion, XMind, Flameshot, Peek, and `script`._
   ```bash
   sudo apt update && sudo apt install flameshot
 
+## Peek — GIF Screen Recorder
+
+**Peek** is a simple tool to record part of your screen as a GIF. Perfect for quick demos or proof-of-concepts.  
+
+### Install
+```bash
+sudo apt update
+sudo apt install peek
+
+
