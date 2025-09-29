@@ -1,6 +1,6 @@
 # Tools & Workflows — Sync, Notes, Screenshots & Logging
 
-_Short guide: Firefox Sync, Notion, XMind, Flameshot, Peek, and `script` (all copy-paste ready)._
+_Short guide: Firefox Sync, Notion, XMind, Flameshot, Peek, and `script`._
 
 ---
 
